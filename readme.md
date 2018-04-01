@@ -1,3 +1,5 @@
+Please notice that it currently is work in progress.
+
 ### Installing
 ~~~
 npm install
